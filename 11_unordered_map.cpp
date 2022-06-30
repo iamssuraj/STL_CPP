@@ -4,7 +4,7 @@ using namespace std;
 
 signed main()
 {
-    // unordered_map<int, int> um; // no key, no map
+    // unordered_map<int, int> um; // same as map but data isn't sorted
 
     // Insert elements
 

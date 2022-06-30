@@ -3,7 +3,7 @@ using namespace std;
 #define int long long int
 
 signed main(){
-    multimap<int, int> m; // sorted map with duplicate keys
+    multimap<int, int> m; // sorted map with no duplicate keys
     m.insert(pair<int, int> (20, 12));
     m.insert(pair<int, int> (20, 13));
     m.insert(pair<int, int> (22, 70));
